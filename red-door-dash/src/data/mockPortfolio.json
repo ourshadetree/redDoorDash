@@ -1,0 +1,103 @@
+{
+  "asOfDate": "2025-02-01",
+  "dashboard": {
+    "projectedMonthlyRevenue": 145522,
+    "projectedMonthlyExpenses": 123550,
+    "projectedMonthlyNetIncome": 21972,
+    "projectedAnnualRevenue": 1746264,
+    "projectedAnnualExpenses": 1482600,
+    "projectedAnnualNetIncome": 263664,
+    "monthlySummaries": [
+      {"month": "January", "revenue": 136059, "expenses": 136807, "netIncome": -748},
+      {"month": "February", "revenue": 149324, "expenses": 119716, "netIncome": 29608},
+      {"month": "March", "revenue": 137959, "expenses": 170556, "netIncome": -32597},
+      {"month": "April", "revenue": 156446, "expenses": 175922, "netIncome": -19476},
+      {"month": "May", "revenue": 193775, "expenses": 130236, "netIncome": 63539},
+      {"month": "June", "revenue": null, "expenses": null, "netIncome": 0},
+      {"month": "July", "revenue": null, "expenses": null, "netIncome": null},
+      {"month": "August", "revenue": null, "expenses": null, "netIncome": null},
+      {"month": "September", "revenue": null, "expenses": null, "netIncome": null},
+      {"month": "October", "revenue": null, "expenses": null, "netIncome": null},
+      {"month": "November", "revenue": null, "expenses": null, "netIncome": null},
+      {"month": "December", "revenue": null, "expenses": null, "netIncome": null}
+    ],
+    "notes": [
+      "Revenue projections are based on rental income only.",
+      "Expenses include taxes, insurance, mortgage interest, management, utilities, R&M, and turns.",
+      "Vacancy is pre-factored into revenue projections.",
+      "Building improvement expenses tagged on the far right are not in monthly expense actuals.",
+      "MT Vernon not calculated in dashboard.",
+      "Cap Ex and property stabilization starting in June are not factored into expenses."
+    ]
+  },
+  "properties": [
+    {
+      "propertyId": "lancaster-hotel",
+      "propertyName": "Lancaster Hotel",
+      "unitCount": 24,
+      "kpis": [
+        {
+          "weekEnding": "2025-01-05",
+          "occupiedUnits": 19,
+          "occupancyPct": 0.7917,
+          "totalLeasedRent": 24845,
+          "averageRent": 1307.63,
+          "totalCollections": 15530,
+          "collectionPct": 0.5311
+        },
+        {
+          "weekEnding": "2025-01-12",
+          "occupiedUnits": 19,
+          "occupancyPct": 0.7917,
+          "totalLeasedRent": 24845,
+          "averageRent": 1307.63,
+          "totalCollections": 24845,
+          "collectionPct": 1.0
+        },
+        {
+          "weekEnding": "2025-01-19",
+          "occupiedUnits": 20,
+          "occupancyPct": 0.8333,
+          "totalLeasedRent": 25895,
+          "averageRent": 1294.75,
+          "totalCollections": 25895,
+          "collectionPct": 1.0
+        }
+      ]
+    },
+    {
+      "propertyId": "concord-manor-apts",
+      "propertyName": "Concord Manor Apts",
+      "unitCount": 35,
+      "kpis": [
+        {
+          "weekEnding": "2025-01-05",
+          "occupiedUnits": 34,
+          "occupancyPct": 0.9714,
+          "totalLeasedRent": 28125,
+          "averageRent": 828.68,
+          "totalCollections": 26150,
+          "collectionPct": 0.9296
+        },
+        {
+          "weekEnding": "2025-01-12",
+          "occupiedUnits": 33,
+          "occupancyPct": 0.9429,
+          "totalLeasedRent": 27325,
+          "averageRent": 828.03,
+          "totalCollections": 27325,
+          "collectionPct": 1.0
+        },
+        {
+          "weekEnding": "2025-01-19",
+          "occupiedUnits": 33,
+          "occupancyPct": 0.9429,
+          "totalLeasedRent": 27325,
+          "averageRent": 828.03,
+          "totalCollections": 21000,
+          "collectionPct": 0.7686
+        }
+      ]
+    }
+  ]
+}
