@@ -5,9 +5,9 @@ const props = defineProps<{ properties: PropertyKpiSheet[] }>();
 </script>
 
 <template>
-  <section id="properties" class="card">
-    <h2>Properties</h2>
-    <ul class="property-list">
+  <div id="properties" class="property-panel">
+    <h3>Properties</h3>
+    <ul class="property-list property-list-compact">
       <li v-for="property in props.properties" :key="property.propertyId">
         <RouterLink :to="`/property/${property.propertyId}`">
           {{ property.propertyName }}
@@ -15,5 +15,5 @@ const props = defineProps<{ properties: PropertyKpiSheet[] }>();
         <span class="muted">{{ property.unitCount }} units</span>
       </li>
     </ul>
-  </section>
+  </div>
 </template>

@@ -1,0 +1,509 @@
+{
+  "asOfDate": "2024-02-01",
+  "dashboard": {
+    "projectedMonthlyRevenue": 145522,
+    "projectedMonthlyExpenses": 123550,
+    "projectedMonthlyNetIncome": 21972,
+    "projectedAnnualRevenue": 1746264,
+    "projectedAnnualExpenses": 1482600,
+    "projectedAnnualNetIncome": 263664,
+    "monthlySummaries": [
+      {
+        "month": "January",
+        "revenue": 136059,
+        "expenses": 136807,
+        "netIncome": -748
+      },
+      {
+        "month": "February",
+        "revenue": 149324,
+        "expenses": 119716,
+        "netIncome": 29608
+      },
+      {
+        "month": "March",
+        "revenue": 137959,
+        "expenses": 170556,
+        "netIncome": -32597
+      },
+      {
+        "month": "April",
+        "revenue": 156446,
+        "expenses": 175922,
+        "netIncome": -19476
+      },
+      {
+        "month": "May",
+        "revenue": 193775,
+        "expenses": 130236,
+        "netIncome": 63539
+      },
+      {
+        "month": "June",
+        "revenue": null,
+        "expenses": null,
+        "netIncome": 0
+      },
+      {
+        "month": "July",
+        "revenue": null,
+        "expenses": null,
+        "netIncome": null
+      },
+      {
+        "month": "August",
+        "revenue": null,
+        "expenses": null,
+        "netIncome": null
+      },
+      {
+        "month": "September",
+        "revenue": null,
+        "expenses": null,
+        "netIncome": null
+      },
+      {
+        "month": "October",
+        "revenue": null,
+        "expenses": null,
+        "netIncome": null
+      },
+      {
+        "month": "November",
+        "revenue": null,
+        "expenses": null,
+        "netIncome": null
+      },
+      {
+        "month": "December",
+        "revenue": null,
+        "expenses": null,
+        "netIncome": null
+      }
+    ],
+    "notes": [
+      "Revenue projections are based on rental income only.",
+      "Expenses include taxes, insurance, mortgage interest, management, utilities, R&M, and turns.",
+      "Vacancy is pre-factored into revenue projections.",
+      "Building improvement expenses tagged on the far right are not in monthly expense actuals.",
+      "MT Vernon not calculated in dashboard.",
+      "Cap Ex and property stabilization starting in June are not factored into expenses."
+    ]
+  },
+  "properties": [
+    {
+      "propertyId": "1153-1155-n-columbus",
+      "propertyName": "1153-1155 N Columbus",
+      "unitCount": 1,
+      "kpis": [
+        {
+          "rowType": "weekly",
+          "weekEnding": "2024-02-01",
+          "occupiedUnits": 0,
+          "occupancyPct": 0.0,
+          "totalLeasedRent": 0.0,
+          "averageRent": 0,
+          "totalCollections": 0.0,
+          "collectionPct": 1.0,
+          "note": "Collections not provided in rent roll; set to leased rent."
+        }
+      ]
+    },
+    {
+      "propertyId": "117-w-walnut-st-5-unit",
+      "propertyName": "117 W Walnut St (5 Unit)",
+      "unitCount": 2,
+      "kpis": [
+        {
+          "rowType": "weekly",
+          "weekEnding": "2024-02-01",
+          "occupiedUnits": 2,
+          "occupancyPct": 1.0,
+          "totalLeasedRent": 2000.0,
+          "averageRent": 1000.0,
+          "totalCollections": 2000.0,
+          "collectionPct": 1.0,
+          "note": "Collections not provided in rent roll; set to leased rent."
+        }
+      ]
+    },
+    {
+      "propertyId": "1215-n-columbus-5-unit",
+      "propertyName": "1215 N Columbus (5 Unit)",
+      "unitCount": 3,
+      "kpis": [
+        {
+          "rowType": "weekly",
+          "weekEnding": "2024-02-01",
+          "occupiedUnits": 2,
+          "occupancyPct": 0.6667,
+          "totalLeasedRent": 0.0,
+          "averageRent": 0.0,
+          "totalCollections": 0.0,
+          "collectionPct": 1.0,
+          "note": "Collections not provided in rent roll; set to leased rent."
+        }
+      ]
+    },
+    {
+      "propertyId": "1233-williams-dr",
+      "propertyName": "1233 Williams Dr",
+      "unitCount": 1,
+      "kpis": [
+        {
+          "rowType": "weekly",
+          "weekEnding": "2024-02-01",
+          "occupiedUnits": 1,
+          "occupancyPct": 1.0,
+          "totalLeasedRent": 0.0,
+          "averageRent": 0.0,
+          "totalCollections": 0.0,
+          "collectionPct": 1.0,
+          "note": "Collections not provided in rent roll; set to leased rent."
+        }
+      ]
+    },
+    {
+      "propertyId": "1401-w-mulberry-st-5-unit",
+      "propertyName": "1401 W Mulberry St (5 Unit)",
+      "unitCount": 3,
+      "kpis": [
+        {
+          "rowType": "weekly",
+          "weekEnding": "2024-02-01",
+          "occupiedUnits": 0,
+          "occupancyPct": 0.0,
+          "totalLeasedRent": 0.0,
+          "averageRent": 0,
+          "totalCollections": 0.0,
+          "collectionPct": 1.0,
+          "note": "Collections not provided in rent roll; set to leased rent."
+        }
+      ]
+    },
+    {
+      "propertyId": "141-145-lake-street-3-unit",
+      "propertyName": "141-145 Lake Street (3 Unit)",
+      "unitCount": 1,
+      "kpis": [
+        {
+          "rowType": "weekly",
+          "weekEnding": "2024-02-01",
+          "occupiedUnits": 0,
+          "occupancyPct": 0.0,
+          "totalLeasedRent": 0.0,
+          "averageRent": 0,
+          "totalCollections": 0.0,
+          "collectionPct": 1.0,
+          "note": "Collections not provided in rent roll; set to leased rent."
+        }
+      ]
+    },
+    {
+      "propertyId": "234-slocum-ave-10-unit",
+      "propertyName": "234 Slocum Ave (10 Unit)",
+      "unitCount": 5,
+      "kpis": [
+        {
+          "rowType": "weekly",
+          "weekEnding": "2024-02-01",
+          "occupiedUnits": 4,
+          "occupancyPct": 0.8,
+          "totalLeasedRent": 775.0,
+          "averageRent": 193.75,
+          "totalCollections": 775.0,
+          "collectionPct": 1.0,
+          "note": "Collections not provided in rent roll; set to leased rent."
+        }
+      ]
+    },
+    {
+      "propertyId": "430-432-e-wheeling-st",
+      "propertyName": "430-432 E Wheeling St",
+      "unitCount": 2,
+      "kpis": [
+        {
+          "rowType": "weekly",
+          "weekEnding": "2024-02-01",
+          "occupiedUnits": 0,
+          "occupancyPct": 0.0,
+          "totalLeasedRent": 0.0,
+          "averageRent": 0,
+          "totalCollections": 0.0,
+          "collectionPct": 1.0,
+          "note": "Collections not provided in rent roll; set to leased rent."
+        }
+      ]
+    },
+    {
+      "propertyId": "434-n",
+      "propertyName": "434 N",
+      "unitCount": 1,
+      "kpis": [
+        {
+          "rowType": "weekly",
+          "weekEnding": "2024-02-01",
+          "occupiedUnits": 1,
+          "occupancyPct": 1.0,
+          "totalLeasedRent": 0.0,
+          "averageRent": 0.0,
+          "totalCollections": 0.0,
+          "collectionPct": 1.0,
+          "note": "Collections not provided in rent roll; set to leased rent."
+        }
+      ]
+    },
+    {
+      "propertyId": "508-n-columbus-5-unit",
+      "propertyName": "508 N Columbus (5 Unit)",
+      "unitCount": 2,
+      "kpis": [
+        {
+          "rowType": "weekly",
+          "weekEnding": "2024-02-01",
+          "occupiedUnits": 1,
+          "occupancyPct": 0.5,
+          "totalLeasedRent": 0.0,
+          "averageRent": 0.0,
+          "totalCollections": 0.0,
+          "collectionPct": 1.0,
+          "note": "Collections not provided in rent roll; set to leased rent."
+        }
+      ]
+    },
+    {
+      "propertyId": "530-532-n-columbus-3-unit",
+      "propertyName": "530 -532 N Columbus (3 Unit)",
+      "unitCount": 1,
+      "kpis": [
+        {
+          "rowType": "weekly",
+          "weekEnding": "2024-02-01",
+          "occupiedUnits": 0,
+          "occupancyPct": 0.0,
+          "totalLeasedRent": 0.0,
+          "averageRent": 0,
+          "totalCollections": 0.0,
+          "collectionPct": 1.0,
+          "note": "Collections not provided in rent roll; set to leased rent."
+        }
+      ]
+    },
+    {
+      "propertyId": "564-566-e-wheeling-st",
+      "propertyName": "564-566 E Wheeling St",
+      "unitCount": 1,
+      "kpis": [
+        {
+          "rowType": "weekly",
+          "weekEnding": "2024-02-01",
+          "occupiedUnits": 1,
+          "occupancyPct": 1.0,
+          "totalLeasedRent": 0.0,
+          "averageRent": 0.0,
+          "totalCollections": 0.0,
+          "collectionPct": 1.0,
+          "note": "Collections not provided in rent roll; set to leased rent."
+        }
+      ]
+    },
+    {
+      "propertyId": "709-w-6th-6-unit",
+      "propertyName": "709 W 6th (6 Unit)",
+      "unitCount": 3,
+      "kpis": [
+        {
+          "rowType": "weekly",
+          "weekEnding": "2024-02-01",
+          "occupiedUnits": 3,
+          "occupancyPct": 1.0,
+          "totalLeasedRent": 0.0,
+          "averageRent": 0.0,
+          "totalCollections": 0.0,
+          "collectionPct": 1.0,
+          "note": "Collections not provided in rent roll; set to leased rent."
+        }
+      ]
+    },
+    {
+      "propertyId": "718-720-w-hubert",
+      "propertyName": "718-720 W Hubert",
+      "unitCount": 1,
+      "kpis": [
+        {
+          "rowType": "weekly",
+          "weekEnding": "2024-02-01",
+          "occupiedUnits": 0,
+          "occupancyPct": 0.0,
+          "totalLeasedRent": 0.0,
+          "averageRent": 0,
+          "totalCollections": 0.0,
+          "collectionPct": 1.0,
+          "note": "Collections not provided in rent roll; set to leased rent."
+        }
+      ]
+    },
+    {
+      "propertyId": "812-w-6th-ave-5-units",
+      "propertyName": "812 W 6th Ave (5 Units)",
+      "unitCount": 3,
+      "kpis": [
+        {
+          "rowType": "weekly",
+          "weekEnding": "2024-02-01",
+          "occupiedUnits": 1,
+          "occupancyPct": 0.3333,
+          "totalLeasedRent": 850.0,
+          "averageRent": 850.0,
+          "totalCollections": 850.0,
+          "collectionPct": 1.0,
+          "note": "Collections not provided in rent roll; set to leased rent."
+        }
+      ]
+    },
+    {
+      "propertyId": "bavarian-village-20-units",
+      "propertyName": "Bavarian Village (20 Units)",
+      "unitCount": 9,
+      "kpis": [
+        {
+          "rowType": "weekly",
+          "weekEnding": "2024-02-01",
+          "occupiedUnits": 8,
+          "occupancyPct": 0.8889,
+          "totalLeasedRent": 800.0,
+          "averageRent": 100.0,
+          "totalCollections": 800.0,
+          "collectionPct": 1.0,
+          "note": "Collections not provided in rent roll; set to leased rent."
+        }
+      ]
+    },
+    {
+      "propertyId": "concord-manor-123-17-units",
+      "propertyName": "Concord Manor 123 (17 Units)",
+      "unitCount": 8,
+      "kpis": [
+        {
+          "rowType": "weekly",
+          "weekEnding": "2024-02-01",
+          "occupiedUnits": 6,
+          "occupancyPct": 0.75,
+          "totalLeasedRent": 0.0,
+          "averageRent": 0.0,
+          "totalCollections": 0.0,
+          "collectionPct": 1.0,
+          "note": "Collections not provided in rent roll; set to leased rent."
+        }
+      ]
+    },
+    {
+      "propertyId": "concord-manor-129-18-units",
+      "propertyName": "Concord Manor 129 (18 Units)",
+      "unitCount": 9,
+      "kpis": [
+        {
+          "rowType": "weekly",
+          "weekEnding": "2024-02-01",
+          "occupiedUnits": 8,
+          "occupancyPct": 0.8889,
+          "totalLeasedRent": 0.0,
+          "averageRent": 0.0,
+          "totalCollections": 0.0,
+          "collectionPct": 1.0,
+          "note": "Collections not provided in rent roll; set to leased rent."
+        }
+      ]
+    },
+    {
+      "propertyId": "lancaster-hotel-30-unit",
+      "propertyName": "Lancaster Hotel (30 Unit)",
+      "unitCount": 11,
+      "kpis": [
+        {
+          "rowType": "weekly",
+          "weekEnding": "2024-02-01",
+          "occupiedUnits": 4,
+          "occupancyPct": 0.3636,
+          "totalLeasedRent": 0.0,
+          "averageRent": 0.0,
+          "totalCollections": 0.0,
+          "collectionPct": 1.0,
+          "note": "Collections not provided in rent roll; set to leased rent."
+        }
+      ]
+    },
+    {
+      "propertyId": "mt-vernon-studio-apts",
+      "propertyName": "Mt Vernon Studio Apts",
+      "unitCount": 26,
+      "kpis": [
+        {
+          "rowType": "weekly",
+          "weekEnding": "2024-02-01",
+          "occupiedUnits": 12,
+          "occupancyPct": 0.4615,
+          "totalLeasedRent": 8400.0,
+          "averageRent": 700.0,
+          "totalCollections": 8400.0,
+          "collectionPct": 1.0,
+          "note": "Collections not provided in rent roll; set to leased rent."
+        }
+      ]
+    },
+    {
+      "propertyId": "new-lex-affordable-housing-22-units",
+      "propertyName": "New Lex Affordable Housing (22 Units)",
+      "unitCount": 11,
+      "kpis": [
+        {
+          "rowType": "weekly",
+          "weekEnding": "2024-02-01",
+          "occupiedUnits": 5,
+          "occupancyPct": 0.4545,
+          "totalLeasedRent": 0.0,
+          "averageRent": 0.0,
+          "totalCollections": 0.0,
+          "collectionPct": 1.0,
+          "note": "Collections not provided in rent roll; set to leased rent."
+        }
+      ]
+    },
+    {
+      "propertyId": "rain-tree-apartments-8-unit",
+      "propertyName": "Rain Tree Apartments (8 Unit)",
+      "unitCount": 4,
+      "kpis": [
+        {
+          "rowType": "weekly",
+          "weekEnding": "2024-02-01",
+          "occupiedUnits": 0,
+          "occupancyPct": 0.0,
+          "totalLeasedRent": 0.0,
+          "averageRent": 0,
+          "totalCollections": 0.0,
+          "collectionPct": 1.0,
+          "note": "Collections not provided in rent roll; set to leased rent."
+        }
+      ]
+    },
+    {
+      "propertyId": "rdem-office",
+      "propertyName": "RDEM Office",
+      "unitCount": 1,
+      "kpis": [
+        {
+          "rowType": "weekly",
+          "weekEnding": "2024-02-01",
+          "occupiedUnits": 0,
+          "occupancyPct": 0.0,
+          "totalLeasedRent": 0.0,
+          "averageRent": 0,
+          "totalCollections": 0.0,
+          "collectionPct": 1.0,
+          "note": "Collections not provided in rent roll; set to leased rent."
+        }
+      ]
+    }
+  ]
+}
