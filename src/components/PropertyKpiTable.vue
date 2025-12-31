@@ -51,17 +51,6 @@ const rowClass = (rowType: PropertyKpiRow["rowType"]): string => {
           <th>Average Rent</th>
           <th>Total Collections $</th>
           <th>Collection %</th>
-          <th>Actual Revenue</th>
-          <th>Budgeted Revenue</th>
-          <th>Variance $</th>
-          <th>Variance %</th>
-          <th>Actual Expense</th>
-          <th>Budgeted Expense</th>
-          <th>Variance $</th>
-          <th>Variance %</th>
-          <th>Net Income</th>
-          <th>Net Income Budgeted</th>
-          <th>Notes</th>
         </tr>
       </thead>
       <tbody>
@@ -77,17 +66,6 @@ const rowClass = (rowType: PropertyKpiRow["rowType"]): string => {
           <td>{{ formatMoney(row.averageRent) }}</td>
           <td>{{ formatMoney(row.totalCollections) }}</td>
           <td>{{ formatPct(row.collectionPct) }}</td>
-          <td>{{ formatMoney(row.monthlyActualRevenue) }}</td>
-          <td>{{ formatMoney(row.monthlyBudgetedRevenue) }}</td>
-          <td>{{ formatMoney(row.monthlyRevenueVariance) }}</td>
-          <td>{{ formatPct(row.monthlyRevenueVariancePct) }}</td>
-          <td>{{ formatMoney(row.monthlyActualExpense) }}</td>
-          <td>{{ formatMoney(row.monthlyBudgetedExpense) }}</td>
-          <td>{{ formatMoney(row.monthlyExpenseVariance) }}</td>
-          <td>{{ formatPct(row.monthlyExpenseVariancePct) }}</td>
-          <td>{{ formatMoney(row.monthlyNetIncome) }}</td>
-          <td>{{ formatMoney(row.monthlyNetIncomeBudgeted) }}</td>
-          <td>{{ row.note ?? "—" }}</td>
         </tr>
       </tbody>
     </table>
